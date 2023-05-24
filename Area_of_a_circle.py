@@ -1,4 +1,4 @@
+n=int(input())
 pi=3.14
-r=float(input())
-a=pi*r*r;
-print("%.2f"%a)
+a=pi*n*n
+print('%.2f'%a)
