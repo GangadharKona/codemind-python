@@ -1,4 +1,3 @@
 n=int(input())
-pi=3.14
-a=pi*n*n
-print('%.2f'%a)
+a=n*n*3.14
+print("%.2f"%a)
